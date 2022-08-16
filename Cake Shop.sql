@@ -4,25 +4,6 @@ CREATE DATABASE CAKESHOP;
 
 USE CAKESHOP;
 
-/* A business which sell cakes and other sweet goods, also makes customised cakes for celebrations
-5 tables = customer info, orders, menu(cake, brownie, cookie), custom cakes info/booking, recipes 
-list of everything i want to incude and draw out tables that make sense
-organise where we wont have duplicate data 
-dietry requirements in own table as dont want to have lists in tables 
-group into tables that make sense together 
-users linked to workout day which is then linked to the different work out  - will go into individual things 
-group them and then find out where they would link
-*/
-
-/* menu 
-orders
-customer info
-custom cake booking 
-ingridence
-allergies 
-loyalty card 
-*/
-
 /* DATABASE
 CUSTOMER
 TABLES LINKED - CUSTOMER
